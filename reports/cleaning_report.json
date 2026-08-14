@@ -1,0 +1,124 @@
+{
+  "generated_at": "2026-06-17T15:45:13.874685",
+  "knowledge_dir": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base",
+  "total_files": 7,
+  "valid_files": 7,
+  "invalid_files": 0,
+  "files_with_phi": 0,
+  "stale_files": 0,
+  "files": [
+    {
+      "file": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\emergency.yaml",
+      "valid": true,
+      "issues": [],
+      "warnings": [],
+      "phi": {
+        "source": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\emergency.yaml",
+        "has_phi": false,
+        "has_high_phi": false,
+        "finding_count": 0,
+        "findings": [],
+        "recommendation": "ok to ingest"
+      },
+      "type": "department"
+    },
+    {
+      "file": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\faqs.yaml",
+      "valid": true,
+      "issues": [],
+      "warnings": [],
+      "phi": {
+        "source": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\faqs.yaml",
+        "has_phi": false,
+        "has_high_phi": false,
+        "finding_count": 0,
+        "findings": [],
+        "recommendation": "ok to ingest"
+      },
+      "type": "faq"
+    },
+    {
+      "file": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\laboratory.yaml",
+      "valid": true,
+      "issues": [],
+      "warnings": [],
+      "phi": {
+        "source": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\laboratory.yaml",
+        "has_phi": false,
+        "has_high_phi": false,
+        "finding_count": 0,
+        "findings": [],
+        "recommendation": "ok to ingest"
+      },
+      "type": "department"
+    },
+    {
+      "file": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\maternity.yaml",
+      "valid": true,
+      "issues": [],
+      "warnings": [],
+      "phi": {
+        "source": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\maternity.yaml",
+        "has_phi": false,
+        "has_high_phi": false,
+        "finding_count": 0,
+        "findings": [],
+        "recommendation": "ok to ingest"
+      },
+      "type": "department"
+    },
+    {
+      "file": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\nhis.yaml",
+      "valid": true,
+      "issues": [],
+      "warnings": [],
+      "phi": {
+        "source": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\nhis.yaml",
+        "has_phi": false,
+        "has_high_phi": false,
+        "finding_count": 0,
+        "findings": [],
+        "recommendation": "ok to ingest"
+      },
+      "type": "department"
+    },
+    {
+      "file": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\opd.yaml",
+      "valid": true,
+      "issues": [],
+      "warnings": [],
+      "phi": {
+        "source": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\opd.yaml",
+        "has_phi": false,
+        "has_high_phi": false,
+        "finding_count": 0,
+        "findings": [],
+        "recommendation": "ok to ingest"
+      },
+      "type": "department"
+    },
+    {
+      "file": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\pharmacy.yaml",
+      "valid": true,
+      "issues": [],
+      "warnings": [],
+      "phi": {
+        "source": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base\\pharmacy.yaml",
+        "has_phi": false,
+        "has_high_phi": false,
+        "finding_count": 0,
+        "findings": [],
+        "recommendation": "ok to ingest"
+      },
+      "type": "department"
+    }
+  ],
+  "summary": {
+    "ready_to_ingest": 7,
+    "blocked": 0,
+    "needs_review": 0,
+    "stale_files": 0,
+    "total_issues": 0,
+    "total_warnings": 0
+  }
+}

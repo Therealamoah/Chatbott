@@ -1,0 +1,26 @@
+department: Pharmacy
+full_name: Hospital Pharmacy
+description: >
+  The Hospital Pharmacy dispenses prescribed medications to both inpatients and
+  outpatients. The pharmacy stocks a wide range of medicines including essential
+  drugs, chronic disease medications, and emergency supplies.
+location: Block B, Ground Floor — next to the OPD
+hours:
+  monday: "8:00 AM - 6:00 PM"
+  tuesday: "8:00 AM - 6:00 PM"
+  wednesday: "8:00 AM - 6:00 PM"
+  thursday: "8:00 AM - 6:00 PM"
+  friday: "8:00 AM - 6:00 PM"
+  saturday: "8:00 AM - 2:00 PM"
+  sunday: Closed
+services:
+  - Dispensing of prescribed medications
+  - Chronic disease medication refills
+  - Medication counselling
+  - Drug information services
+  - Emergency medication supply (via on-call pharmacist)
+contact: 024-412-3458
+contact_backup: 050-123-4567
+nhis_accepted: true
+nhis_notes: "NHIS covers most essential medicines. Some branded drugs may require co-payment."
+last_verified: "2026-06-01"

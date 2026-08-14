@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "generated": "2026-06-17T15:45:13.874685",
+    "description": "MediGuide AI Clean Knowledge Base",
+    "source_dir": "D:\\REACT PROJECTS\\Chatbott\\data\\knowledge_base"
+  },
+  "summary": {
+    "departments": 6,
+    "faqs": 20,
+    "validation": {
+      "total_files": 7,
+      "valid": 7,
+      "invalid": 0,
+      "warnings": 0
+    }
+  },
+  "departments": [
+    {
+      "department": "Emergency",
+      "full_name": "Emergency Unit",
+      "description": "The Emergency Unit provides 24-hour urgent medical care for patients with serious injuries, acute illnesses, and life-threatening conditions. The unit is equipped with resuscitation bays, a triage area, and emergency treatment rooms.",
+      "location": "Block A, Ground Floor — left wing, directly opposite the main entrance",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "services": [
+        "Emergency triage and resuscitation",
+        "Trauma and accident care",
+        "Acute medical treatment",
+        "Stabilisation and referral",
+        "Emergency surgery",
+        "Ambulance services"
+      ],
+      "contact": "024-412-3457",
+      "contact_backup": "020-456-7891",
+      "nhis_accepted": true,
+      "nhis_notes": "Emergency care provided first, registration follows. NHIS covers emergency visits.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "department": "Laboratory",
+      "full_name": "Clinical Laboratory",
+      "description": "The Clinical Laboratory provides diagnostic testing services including blood tests, urine analysis, microbiology, clinical chemistry, and haematology. Results are typically available within 2-4 hours for routine tests.",
+      "location": "Block B, First Floor — above the Pharmacy",
+      "hours": {
+        "monday": "7:00 AM - 5:00 PM",
+        "tuesday": "7:00 AM - 5:00 PM",
+        "wednesday": "7:00 AM - 5:00 PM",
+        "thursday": "7:00 AM - 5:00 PM",
+        "friday": "7:00 AM - 5:00 PM",
+        "saturday": "7:00 AM - 12:00 PM",
+        "sunday": "Closed"
+      },
+      "services": [
+        "Blood tests (FBC, RBS, FBS, HbA1c, Lipid profile)",
+        "Urine analysis",
+        "Malaria rapid diagnostic tests (RDT)",
+        "Blood film for parasites",
+        "Stool examination",
+        "Clinical chemistry (kidney/liver function)",
+        "Microbiology and culture sensitivity",
+        "Blood grouping and cross-match",
+        "Tuberculosis testing (GeneXpert)",
+        "COVID-19 testing"
+      ],
+      "contact": "024-412-3459",
+      "contact_backup": "050-987-6543",
+      "nhis_accepted": true,
+      "nhis_notes": "All routine laboratory tests are covered by NHIS. Some specialised tests may require payment.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "department": "Maternity",
+      "full_name": "Maternity Ward",
+      "description": "The Maternity Ward provides comprehensive maternal and child health services including antenatal care, delivery services, postnatal care, and family planning. The ward has a labour suite, delivery rooms, and a postnatal ward.",
+      "location": "Block C, First Floor — access via the east staircase",
+      "hours": {
+        "monday": "24 hours",
+        "tuesday": "24 hours",
+        "wednesday": "24 hours",
+        "thursday": "24 hours",
+        "friday": "24 hours",
+        "saturday": "24 hours",
+        "sunday": "24 hours"
+      },
+      "services": [
+        "Antenatal care (ANC)",
+        "Normal and assisted deliveries",
+        "Caesarean sections",
+        "Postnatal care",
+        "Family planning services",
+        "Immunisation (BCG, OPV, Hepatitis B at birth)",
+        "Newborn care",
+        "Emergency obstetric care",
+        "PMTCT (Prevention of Mother-to-Child Transmission of HIV)"
+      ],
+      "contact": "024-412-3460",
+      "contact_backup": "020-555-7890",
+      "nhis_accepted": true,
+      "nhis_notes": "NHIS covers antenatal visits, delivery, and postnatal care under the free maternal care policy.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "department": "NHIS",
+      "full_name": "National Health Insurance Scheme Desk",
+      "description": "The NHIS Desk assists patients with health insurance registration, renewal, and claims processing. All patients are encouraged to register with the NHIS to access subsidised healthcare services.",
+      "location": "Block A, Ground Floor — near the main entrance, adjacent to OPD registration",
+      "hours": {
+        "monday": "8:00 AM - 4:00 PM",
+        "tuesday": "8:00 AM - 4:00 PM",
+        "wednesday": "8:00 AM - 4:00 PM",
+        "thursday": "8:00 AM - 4:00 PM",
+        "friday": "8:00 AM - 4:00 PM",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "services": [
+        "NHIS registration for new members",
+        "NHIS card renewal",
+        "Premium payments",
+        "Claims processing",
+        "Member verification",
+        "Information and counselling on insurance benefits"
+      ],
+      "contact": "024-412-3461",
+      "contact_backup": "020-789-1234",
+      "nhis_accepted": true,
+      "nhis_notes": "Bring your Ghana Card for NHIS registration. Annual premium starts from GH¢30 for adults.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "department": "OPD",
+      "full_name": "Outpatient Department",
+      "description": "The Outpatient Department handles patients who require medical consultation but do not need to be admitted. Services include general consultations, vital signs check, and referrals to specialist clinics.",
+      "location": "Block A, Ground Floor — near the main entrance",
+      "hours": {
+        "monday": "7:30 AM - 5:00 PM",
+        "tuesday": "7:30 AM - 5:00 PM",
+        "wednesday": "7:30 AM - 5:00 PM",
+        "thursday": "7:30 AM - 5:00 PM",
+        "friday": "7:30 AM - 5:00 PM",
+        "saturday": "8:00 AM - 12:00 PM",
+        "sunday": "Closed"
+      },
+      "services": [
+        "General medical consultations",
+        "Vital signs and triage",
+        "Referrals to specialist clinics",
+        "Prescription refills for chronic conditions",
+        "Health education and counselling",
+        "Medical certificates"
+      ],
+      "contact": "024-412-3456",
+      "contact_backup": "020-456-7890",
+      "nhis_accepted": true,
+      "nhis_notes": "NHIS card accepted. Please bring your valid NHIS card and Ghana Card.",
+      "last_verified": "2026-06-01"
+    },
+    {
+      "department": "Pharmacy",
+      "full_name": "Hospital Pharmacy",
+      "description": "The Hospital Pharmacy dispenses prescribed medications to both inpatients and outpatients. The pharmacy stocks a wide range of medicines including essential drugs, chronic disease medications, and emergency supplies.",
+      "location": "Block B, Ground Floor — next to the OPD",
+      "hours": {
+        "monday": "8:00 AM - 6:00 PM",
+        "tuesday": "8:00 AM - 6:00 PM",
+        "wednesday": "8:00 AM - 6:00 PM",
+        "thursday": "8:00 AM - 6:00 PM",
+        "friday": "8:00 AM - 6:00 PM",
+        "saturday": "8:00 AM - 2:00 PM",
+        "sunday": "Closed"
+      },
+      "services": [
+        "Dispensing of prescribed medications",
+        "Chronic disease medication refills",
+        "Medication counselling",
+        "Drug information services",
+        "Emergency medication supply (via on-call pharmacist)"
+      ],
+      "contact": "024-412-3458",
+      "contact_backup": "050-123-4567",
+      "nhis_accepted": true,
+      "nhis_notes": "NHIS covers most essential medicines. Some branded drugs may require co-payment.",
+      "last_verified": "2026-06-01"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-001",
+      "question": "What time does the hospital open?",
+      "answer": "The hospital opens at 7:30 AM from Monday to Friday. OPD operates until 5:00 PM. The Emergency Unit is open 24 hours every day.",
+      "department": "OPD",
+      "topic": "opening_hours"
+    },
+    {
+      "id": "faq-002",
+      "question": "Does the hospital accept NHIS?",
+      "answer": "Yes, the hospital accepts NHIS. Please bring your valid NHIS card and Ghana Card for registration at the NHIS desk.",
+      "department": "NHIS",
+      "topic": "insurance"
+    },
+    {
+      "id": "faq-003",
+      "question": "How do I get a medical certificate?",
+      "answer": "Visit the OPD for a consultation. After examination, the doctor can issue a medical certificate. A fee of GH¢20 applies.",
+      "department": "OPD",
+      "topic": "documents"
+    },
+    {
+      "id": "faq-004",
+      "question": "Where do I go for malaria testing?",
+      "answer": "Visit the OPD first for assessment. The doctor will request a malaria test if needed. Tests are done at the Laboratory on Block B, First Floor.",
+      "department": "Laboratory",
+      "topic": "testing"
+    },
+    {
+      "id": "faq-005",
+      "question": "What should I bring for my antenatal visit?",
+      "answer": "Please bring your NHIS card, Ghana Card, previous ANC records (if any), and your maternity passport.",
+      "department": "Maternity",
+      "topic": "antenatal"
+    },
+    {
+      "id": "faq-006",
+      "question": "How much does NHIS registration cost?",
+      "answer": "Annual NHIS premium starts from GH¢30 for adults. Children under 18, elderly above 70, and pregnant women are exempt from premium payments under the NHIS policy.",
+      "department": "NHIS",
+      "topic": "insurance"
+    },
+    {
+      "id": "faq-007",
+      "question": "What are the emergency contact numbers?",
+      "answer": "Emergency: 024-412-3457. Ambulance: 193. National Emergency: 112. Police: 999.",
+      "department": "Emergency",
+      "topic": "emergency"
+    },
+    {
+      "id": "faq-008",
+      "question": "Do you offer family planning services?",
+      "answer": "Yes, family planning services are available at the Maternity Ward. Services include counselling, contraceptive pills, injections, implants, and IUD insertion.",
+      "department": "Maternity",
+      "topic": "family_planning"
+    },
+    {
+      "id": "faq-009",
+      "question": "How long do laboratory results take?",
+      "answer": "Routine tests like malaria RDT, blood sugar, and urine analysis take about 30 minutes to 1 hour. More complex tests like culture sensitivity may take 24-48 hours.",
+      "department": "Laboratory",
+      "topic": "testing"
+    },
+    {
+      "id": "faq-010",
+      "question": "Where is the Pharmacy located?",
+      "answer": "The Pharmacy is located on Block B, Ground Floor, next to the OPD. Operating hours are 8:00 AM to 6:00 PM on weekdays and 8:00 AM to 2:00 PM on Saturdays.",
+      "department": "Pharmacy",
+      "topic": "location"
+    },
+    {
+      "id": "faq-011",
+      "question": "Can I refill my chronic medication?",
+      "answer": "Yes, the OPD handles prescription refills for chronic conditions like hypertension and diabetes. Please bring your previous prescription and any medical records.",
+      "department": "OPD",
+      "topic": "medication"
+    },
+    {
+      "id": "faq-012",
+      "question": "What immunisation services are available at birth?",
+      "answer": "Newborns receive BCG (tuberculosis), OPV (polio), and Hepatitis B vaccines at birth at the Maternity Ward. These are free under the national immunisation programme.",
+      "department": "Maternity",
+      "topic": "immunisation"
+    },
+    {
+      "id": "faq-013",
+      "question": "What is the address of the hospital?",
+      "answer": "The hospital is located on Hospital Road, opposite the Central Market, P.O. Box 123, Kumasi.",
+      "department": "OPD",
+      "topic": "general"
+    },
+    {
+      "id": "faq-014",
+      "question": "Do you have an eye clinic?",
+      "answer": "Yes, the Ophthalmology Department runs eye clinics every Tuesday and Thursday from 9:00 AM to 3:00 PM. Please register at the OPD first.",
+      "department": "OPD",
+      "topic": "specialist"
+    },
+    {
+      "id": "faq-015",
+      "question": "How do I get a referral to a specialist?",
+      "answer": "Visit the OPD for assessment first. The general practitioner will refer you to the appropriate specialist if needed. Bring any previous medical records.",
+      "department": "OPD",
+      "topic": "referrals"
+    },
+    {
+      "id": "faq-016",
+      "question": "What laboratory tests are covered by NHIS?",
+      "answer": "Routine tests such as blood count, malaria test, urine analysis, blood sugar, and stool examination are covered. Specialised tests may require additional payment.",
+      "department": "Laboratory",
+      "topic": "insurance"
+    },
+    {
+      "id": "faq-017",
+      "question": "Do you have dental services?",
+      "answer": "Yes, the Dental Department offers consultations, extractions, fillings, and oral health education. The clinic is open Monday to Friday from 8:00 AM to 4:00 PM.",
+      "department": "OPD",
+      "topic": "dental"
+    },
+    {
+      "id": "faq-018",
+      "question": "What is the visiting hours for patients?",
+      "answer": "Visiting hours are from 3:00 PM to 5:00 PM on weekdays and 10:00 AM to 12:00 PM on weekends. Please limit visitors to two per patient.",
+      "department": "OPD",
+      "topic": "visiting"
+    },
+    {
+      "id": "faq-019",
+      "question": "How do I access my medical records?",
+      "answer": "Visit the Records Office (Block A, Ground Floor) with a valid ID. There is a GH¢10 fee for medical record retrieval.",
+      "department": "OPD",
+      "topic": "records"
+    },
+    {
+      "id": "faq-020",
+      "question": "What should I do in a pregnancy emergency?",
+      "answer": "Go directly to the Maternity Ward (Block C, First Floor) or call 024-412-3460. For severe emergencies, call 112 or 193 for an ambulance.",
+      "department": "Maternity",
+      "topic": "emergency"
+    }
+  ]
+}

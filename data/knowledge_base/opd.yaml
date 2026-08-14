@@ -1,0 +1,27 @@
+department: OPD
+full_name: Outpatient Department
+description: >
+  The Outpatient Department handles patients who require medical consultation
+  but do not need to be admitted. Services include general consultations,
+  vital signs check, and referrals to specialist clinics.
+location: Block A, Ground Floor — near the main entrance
+hours:
+  monday: "7:30 AM - 5:00 PM"
+  tuesday: "7:30 AM - 5:00 PM"
+  wednesday: "7:30 AM - 5:00 PM"
+  thursday: "7:30 AM - 5:00 PM"
+  friday: "7:30 AM - 5:00 PM"
+  saturday: "8:00 AM - 12:00 PM"
+  sunday: Closed
+services:
+  - General medical consultations
+  - Vital signs and triage
+  - Referrals to specialist clinics
+  - Prescription refills for chronic conditions
+  - Health education and counselling
+  - Medical certificates
+contact: 024-412-3456
+contact_backup: 020-456-7890
+nhis_accepted: true
+nhis_notes: "NHIS card accepted. Please bring your valid NHIS card and Ghana Card."
+last_verified: "2026-06-01"

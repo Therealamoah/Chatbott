@@ -1,0 +1,27 @@
+department: NHIS
+full_name: National Health Insurance Scheme Desk
+description: >
+  The NHIS Desk assists patients with health insurance registration, renewal,
+  and claims processing. All patients are encouraged to register with the NHIS
+  to access subsidised healthcare services.
+location: Block A, Ground Floor — near the main entrance, adjacent to OPD registration
+hours:
+  monday: "8:00 AM - 4:00 PM"
+  tuesday: "8:00 AM - 4:00 PM"
+  wednesday: "8:00 AM - 4:00 PM"
+  thursday: "8:00 AM - 4:00 PM"
+  friday: "8:00 AM - 4:00 PM"
+  saturday: Closed
+  sunday: Closed
+services:
+  - NHIS registration for new members
+  - NHIS card renewal
+  - Premium payments
+  - Claims processing
+  - Member verification
+  - Information and counselling on insurance benefits
+contact: 024-412-3461
+contact_backup: 020-789-1234
+nhis_accepted: true
+nhis_notes: "Bring your Ghana Card for NHIS registration. Annual premium starts from GH¢30 for adults."
+last_verified: "2026-06-01"

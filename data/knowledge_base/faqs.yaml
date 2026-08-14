@@ -1,0 +1,120 @@
+faqs:
+  - id: faq-001
+    question: "What time does the hospital open?"
+    answer: "The hospital opens at 7:30 AM from Monday to Friday. OPD operates until 5:00 PM. The Emergency Unit is open 24 hours every day."
+    department: OPD
+    topic: opening_hours
+
+  - id: faq-002
+    question: "Does the hospital accept NHIS?"
+    answer: "Yes, the hospital accepts NHIS. Please bring your valid NHIS card and Ghana Card for registration at the NHIS desk."
+    department: NHIS
+    topic: insurance
+
+  - id: faq-003
+    question: "How do I get a medical certificate?"
+    answer: "Visit the OPD for a consultation. After examination, the doctor can issue a medical certificate. A fee of GH¢20 applies."
+    department: OPD
+    topic: documents
+
+  - id: faq-004
+    question: "Where do I go for malaria testing?"
+    answer: "Visit the OPD first for assessment. The doctor will request a malaria test if needed. Tests are done at the Laboratory on Block B, First Floor."
+    department: Laboratory
+    topic: testing
+
+  - id: faq-005
+    question: "What should I bring for my antenatal visit?"
+    answer: "Please bring your NHIS card, Ghana Card, previous ANC records (if any), and your maternity passport."
+    department: Maternity
+    topic: antenatal
+
+  - id: faq-006
+    question: "How much does NHIS registration cost?"
+    answer: "Annual NHIS premium starts from GH¢30 for adults. Children under 18, elderly above 70, and pregnant women are exempt from premium payments under the NHIS policy."
+    department: NHIS
+    topic: insurance
+
+  - id: faq-007
+    question: "What are the emergency contact numbers?"
+    answer: "Emergency: 024-412-3457. Ambulance: 193. National Emergency: 112. Police: 999."
+    department: Emergency
+    topic: emergency
+
+  - id: faq-008
+    question: "Do you offer family planning services?"
+    answer: "Yes, family planning services are available at the Maternity Ward. Services include counselling, contraceptive pills, injections, implants, and IUD insertion."
+    department: Maternity
+    topic: family_planning
+
+  - id: faq-009
+    question: "How long do laboratory results take?"
+    answer: "Routine tests like malaria RDT, blood sugar, and urine analysis take about 30 minutes to 1 hour. More complex tests like culture sensitivity may take 24-48 hours."
+    department: Laboratory
+    topic: testing
+
+  - id: faq-010
+    question: "Where is the Pharmacy located?"
+    answer: "The Pharmacy is located on Block B, Ground Floor, next to the OPD. Operating hours are 8:00 AM to 6:00 PM on weekdays and 8:00 AM to 2:00 PM on Saturdays."
+    department: Pharmacy
+    topic: location
+
+  - id: faq-011
+    question: "Can I refill my chronic medication?"
+    answer: "Yes, the OPD handles prescription refills for chronic conditions like hypertension and diabetes. Please bring your previous prescription and any medical records."
+    department: OPD
+    topic: medication
+
+  - id: faq-012
+    question: "What immunisation services are available at birth?"
+    answer: "Newborns receive BCG (tuberculosis), OPV (polio), and Hepatitis B vaccines at birth at the Maternity Ward. These are free under the national immunisation programme."
+    department: Maternity
+    topic: immunisation
+
+  - id: faq-013
+    question: "What is the address of the hospital?"
+    answer: "The hospital is located on Hospital Road, opposite the Central Market, P.O. Box 123, Kumasi."
+    department: OPD
+    topic: general
+
+  - id: faq-014
+    question: "Do you have an eye clinic?"
+    answer: "Yes, the Ophthalmology Department runs eye clinics every Tuesday and Thursday from 9:00 AM to 3:00 PM. Please register at the OPD first."
+    department: OPD
+    topic: specialist
+
+  - id: faq-015
+    question: "How do I get a referral to a specialist?"
+    answer: "Visit the OPD for assessment first. The general practitioner will refer you to the appropriate specialist if needed. Bring any previous medical records."
+    department: OPD
+    topic: referrals
+
+  - id: faq-016
+    question: "What laboratory tests are covered by NHIS?"
+    answer: "Routine tests such as blood count, malaria test, urine analysis, blood sugar, and stool examination are covered. Specialised tests may require additional payment."
+    department: Laboratory
+    topic: insurance
+
+  - id: faq-017
+    question: "Do you have dental services?"
+    answer: "Yes, the Dental Department offers consultations, extractions, fillings, and oral health education. The clinic is open Monday to Friday from 8:00 AM to 4:00 PM."
+    department: OPD
+    topic: dental
+
+  - id: faq-018
+    question: "What is the visiting hours for patients?"
+    answer: "Visiting hours are from 3:00 PM to 5:00 PM on weekdays and 10:00 AM to 12:00 PM on weekends. Please limit visitors to two per patient."
+    department: OPD
+    topic: visiting
+
+  - id: faq-019
+    question: "How do I access my medical records?"
+    answer: "Visit the Records Office (Block A, Ground Floor) with a valid ID. There is a GH¢10 fee for medical record retrieval."
+    department: OPD
+    topic: records
+
+  - id: faq-020
+    question: "What should I do in a pregnancy emergency?"
+    answer: "Go directly to the Maternity Ward (Block C, First Floor) or call 024-412-3460. For severe emergencies, call 112 or 193 for an ambulance."
+    department: Maternity
+    topic: emergency

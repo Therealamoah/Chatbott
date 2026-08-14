@@ -1,0 +1,31 @@
+department: Laboratory
+full_name: Clinical Laboratory
+description: >
+  The Clinical Laboratory provides diagnostic testing services including blood tests,
+  urine analysis, microbiology, clinical chemistry, and haematology. Results are
+  typically available within 2-4 hours for routine tests.
+location: Block B, First Floor — above the Pharmacy
+hours:
+  monday: "7:00 AM - 5:00 PM"
+  tuesday: "7:00 AM - 5:00 PM"
+  wednesday: "7:00 AM - 5:00 PM"
+  thursday: "7:00 AM - 5:00 PM"
+  friday: "7:00 AM - 5:00 PM"
+  saturday: "7:00 AM - 12:00 PM"
+  sunday: Closed
+services:
+  - Blood tests (FBC, RBS, FBS, HbA1c, Lipid profile)
+  - Urine analysis
+  - Malaria rapid diagnostic tests (RDT)
+  - Blood film for parasites
+  - Stool examination
+  - Clinical chemistry (kidney/liver function)
+  - Microbiology and culture sensitivity
+  - Blood grouping and cross-match
+  - Tuberculosis testing (GeneXpert)
+  - COVID-19 testing
+contact: 024-412-3459
+contact_backup: 050-987-6543
+nhis_accepted: true
+nhis_notes: "All routine laboratory tests are covered by NHIS. Some specialised tests may require payment."
+last_verified: "2026-06-01"

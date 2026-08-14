@@ -1,0 +1,30 @@
+department: Maternity
+full_name: Maternity Ward
+description: >
+  The Maternity Ward provides comprehensive maternal and child health services
+  including antenatal care, delivery services, postnatal care, and family planning.
+  The ward has a labour suite, delivery rooms, and a postnatal ward.
+location: Block C, First Floor — access via the east staircase
+hours:
+  monday: "24 hours"
+  tuesday: "24 hours"
+  wednesday: "24 hours"
+  thursday: "24 hours"
+  friday: "24 hours"
+  saturday: "24 hours"
+  sunday: "24 hours"
+services:
+  - Antenatal care (ANC)
+  - Normal and assisted deliveries
+  - Caesarean sections
+  - Postnatal care
+  - Family planning services
+  - Immunisation (BCG, OPV, Hepatitis B at birth)
+  - Newborn care
+  - Emergency obstetric care
+  - PMTCT (Prevention of Mother-to-Child Transmission of HIV)
+contact: 024-412-3460
+contact_backup: 020-555-7890
+nhis_accepted: true
+nhis_notes: "NHIS covers antenatal visits, delivery, and postnatal care under the free maternal care policy."
+last_verified: "2026-06-01"

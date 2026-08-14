@@ -1,0 +1,27 @@
+department: Emergency
+full_name: Emergency Unit
+description: >
+  The Emergency Unit provides 24-hour urgent medical care for patients with
+  serious injuries, acute illnesses, and life-threatening conditions. The unit
+  is equipped with resuscitation bays, a triage area, and emergency treatment rooms.
+location: Block A, Ground Floor — left wing, directly opposite the main entrance
+hours:
+  monday: "24 hours"
+  tuesday: "24 hours"
+  wednesday: "24 hours"
+  thursday: "24 hours"
+  friday: "24 hours"
+  saturday: "24 hours"
+  sunday: "24 hours"
+services:
+  - Emergency triage and resuscitation
+  - Trauma and accident care
+  - Acute medical treatment
+  - Stabilisation and referral
+  - Emergency surgery
+  - Ambulance services
+contact: 024-412-3457
+contact_backup: 020-456-7891
+nhis_accepted: true
+nhis_notes: "Emergency care provided first, registration follows. NHIS covers emergency visits."
+last_verified: "2026-06-01"
